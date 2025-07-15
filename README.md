@@ -77,7 +77,9 @@ This project utilizes **Hibernate** for ORM, **PostgreSQL** for the database, an
 
 # 💡DEMO output
 
-<img width="798" height="320" alt="OUTPUT" src="https://github.com/user-attachments/assets/f556a4c2-3d65-4a08-a3ec-9e456c1f17b7" />
+<img width="881" height="647" alt="output1" src="https://github.com/user-attachments/assets/34dc8c36-b993-4945-a63c-7600e9733490" />
+<img width="881" height="647" alt="output!" src="https://github.com/user-attachments/assets/2d4ddfdd-58e5-4656-ad10-003a4fb9e1fc" />
+
 
   
 # 🤝 Contributing

@@ -68,7 +68,6 @@ This project utilizes **Hibernate** for ORM, **PostgreSQL** for the database, an
           <?xml version="1.0" encoding="UTF-8"?>
           <persistence xmlns="https://jakarta.ee/xml/ns/persistence"version="3.0">
           <persistence-unit name="complaintPU" transaction-type="RESOURCE_LOCAL">
-          <class>com.example.complaint.dao.ComplaintDAO</class>
           <class>com.example.complaint.entity.Complaint</class>
 
          <properties>

@@ -6,6 +6,8 @@ import jakarta.persistence.*;
 @Table(name = "complaints")
 public class Complaint {
     @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    
     private int id;
 
     private String userName;
